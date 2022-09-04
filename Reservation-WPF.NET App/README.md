@@ -1,7 +1,5 @@
 # Reservoom
-
 A simple hotel reservation system demonstrating WPF MVVM fundamentals.
 
-Follow along at https://youtube.com/playlist?list=PLA8ZIAm2I03hS41Fy4vFpRw8AdYNBXmNm.
+<a href="https://ibb.co/ngDP6Py"><img src="https://i.ibb.co/98qZcZ0/Capture.png" alt="Capture" border="0" /></a>
 
-See [branches](https://github.com/SingletonSean/reservoom/branches) to view the state of the repository at the end of an episode.
